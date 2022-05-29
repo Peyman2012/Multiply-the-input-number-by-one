@@ -1,0 +1,1 @@
+# Multiply-the-input-number-by-one
